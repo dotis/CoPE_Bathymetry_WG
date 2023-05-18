@@ -1,4 +1,4 @@
-## CoPE_Bathymetry_WG
+## CoPE_Mapping_WG
 
 ### General repo for IMaRS Bathymetry WG
 
